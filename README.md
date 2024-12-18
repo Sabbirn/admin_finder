@@ -1,4 +1,4 @@
-pkg update && pkg upgrade
+```pkg update && pkg upgrade```
 <br>
 pkg install python
 <br>
